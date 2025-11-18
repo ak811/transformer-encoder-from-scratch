@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env/
+
+# OS and editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (do not commit raw datasets)
+data/
+.data/
+
+# Model checkpoints (optional: keep or ignore)
+models/
+
+# Training history files (optional)
+assets/*.json
+
+# Pytest, coverage
+.pytest_cache/
+.coverage
+htmlcov/
