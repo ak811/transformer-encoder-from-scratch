@@ -4,7 +4,6 @@ This repository implements the core building blocks of the Transformer architect
 
 > "Attention is All You Need" - Vaswani et al., 2017
 
-The goal is to give hands-on experience with the internals of Transformers, including attention, multi-head attention, encoder blocks, and positional encoding.
 ---
 
 ## Learning Objectives
@@ -50,8 +49,8 @@ By working through this codebase you will:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/ak811/inside-the-transformer.git
+cd inside-the-transformer
 ```
 
 2. (Optional) Create and activate a virtual environment.
@@ -61,13 +60,6 @@ cd <your-repo-name>
 ```bash
 pip install -r requirements.txt
 ```
-
-Dependencies are minimal:
-
-- `torch`
-- `matplotlib`
-- `numpy`
-
 ---
 
 ## Components
