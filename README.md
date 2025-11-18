@@ -1,4 +1,4 @@
-# Transformer Architecture Lab (PyTorch)
+# Inside the Transformer
 
 This repository implements the core building blocks of the Transformer architecture from scratch in PyTorch, inspired by the paper:
 
