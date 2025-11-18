@@ -19,31 +19,6 @@ By working through this codebase you will:
 
 ---
 
-## Project Structure
-
-```text
-.
-├── attention.py              # Scaled dot product attention (Section 1)
-├── multi_head_attention.py   # Multi head attention module (Section 2)
-├── encoder_block.py          # Transformer encoder block (Section 3)
-├── positional_encoding.py    # Positional encoding module and plot helper (Section 4)
-├── demo_encoder.py           # Minimal end-to-end encoder demo
-├── demo_attention_viz.py     # Attention weights visualization
-├── assets/
-│   ├── positional_encoding.png   # Saved positional encoding heatmap
-│   └── example_attention.png     # Saved attention weights heatmap
-├── tests/
-│   ├── test_attention.py
-│   ├── test_multi_head.py
-│   ├── test_encoder_block.py
-│   └── test_positional_encoding.py
-├── requirements.txt
-├── .gitignore
-└── README.md
-```
-
----
-
 ## Installation
 
 1. Clone this repository:
