@@ -25,7 +25,6 @@ By working through this codebase you will:
 
 ```bash
 git clone https://github.com/ak811/inside-the-transformer.git
-cd inside-the-transformer
 ```
 
 2. (Optional) Create and activate a virtual environment.
