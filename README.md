@@ -186,23 +186,16 @@ You can embed this in your README and use it for teaching or explanation of atte
 
 ---
 
-## Visualizations For README
+## Visualizations
 
 After running the plotting scripts, you will have:
 
 - `assets/positional_encoding.png`  
 - `assets/example_attention.png`
 
-You can embed them in this README as follows:
-
-```markdown
 ### Positional Encoding
 
 ![Positional Encoding](assets/positional_encoding.png)
-
-```
-
-These images help visualize what the model is doing under the hood.
 
 ---
 
