@@ -27,7 +27,7 @@ By working through this codebase you will:
 git clone https://github.com/ak811/inside-the-transformer.git
 ```
 
-2. (Optional) Create and activate a virtual environment.
+2. Create and activate a virtual environment.
 
 3. Install dependencies:
 
