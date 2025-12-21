@@ -1,4 +1,4 @@
-# Implementation of "Attention is All You Need"
+# Attention Is All You Need: A PyTorch Implementation from Scratch
 
 This repository implements the core building blocks of the Transformer architecture from scratch in PyTorch, inspired by the paper:
 
