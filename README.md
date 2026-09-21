@@ -1,4 +1,4 @@
-# Attention Is All You Need: A PyTorch Implementation from Scratch
+# Transformer Encoder From Scratch: A PyTorch Implementation
 
 This repository implements the core building blocks of the Transformer architecture from scratch in PyTorch, inspired by the paper:
 
@@ -24,7 +24,7 @@ By working through this codebase you will:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/ak811/inside-the-transformer.git
+git clone https://github.com/ak811/transformer-encoder-from-scratch.git
 ```
 
 2. Create and activate a virtual environment.
